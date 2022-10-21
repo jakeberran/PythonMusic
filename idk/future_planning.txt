@@ -1,0 +1,17 @@
+maybe -1 will be a rest in a melody?
+
+put things into folders?
+
+something for tonal things, eventually when i want to handle those sort of things better
+
+fix the midiwrite to handle meta events too, and also the insert track? should work, and have an insert meta method for tracks
+
+implement midi track type 1 so i can have multiple simultaneous tracks. so it would be midiwrite([tracks]). also midi channels, and all the other info im throwing out from the midi files
+
+have a file for translating between "notes" and frequencies, maybe pitch, cents to frequency. in mappings?
+  so maybe that could allow for the 19 tone equal temprament.
+    and then maybe learn how wav files work, to create those.
+
+allow plugging in floats for more things, always go to int but don't restrict the inputs
+
+live midi input? that's gotta be possible somehow
