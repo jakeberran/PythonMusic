@@ -2,7 +2,7 @@ PythonMusic Library
 Jake Berran
 Last Updated: 05/07/21
 
-Hello! This is the PythonMusic library, or whatever it should be called since I am a beginner programmer. It has many functions to work with music and MIDI files. It's very much in progress, but still at a point where people can use it if they wish.
+Hello! This is my PythonMusic library. It has many functions to work with music and MIDI files. It's very much in progress, but still at a point where people can use it if they wish.
 
 Here is a general overview of the folders and files:
 
